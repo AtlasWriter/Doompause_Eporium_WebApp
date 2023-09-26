@@ -132,7 +132,7 @@
 
 <h2>Technical Requirements:</h2>
 
-<table cellspacing="0" class="MsoTableGrid" style="674.6px; border:none">
+<table cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:none">
 	<thead>
 		<tr>
 			<td style="background-color:#d0cece; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; width:45px">
@@ -159,7 +159,10 @@
 			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">001</span></span></span></p>
 			</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:532px">
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">Lombok to reduce boiler plate code. Lombok.jar - Backend</span></span></span></p>
+			<pre>
+<code class="language-java">Lombok to reduce boiler plate code. Lombok.jar - Backend</code></pre>
+
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -181,13 +184,10 @@
 			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">003</span></span></span></p>
 			</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:532px">
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">import jakarta.persistence.Entity; </span></span></span></p>
+			<pre>
+<code class="language-java">import jakarta.persistence.Entity; import jakarta.persistence.Table; import java.math.BigDecimal; import java.util.Date;</code></pre>
 
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">import jakarta.persistence.Table; </span></span></span></p>
-
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">import java.math.BigDecimal; </span></span></span></p>
-
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">import java.util.Date;</span></span></span></p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -198,7 +198,10 @@
 			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">004</span></span></span></p>
 			</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:532px">
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">Custom REST Resource: @RepositoryRestResource(collectionResourceRel = &quot;productCategory&quot;, path = &quot;product-category&quot;) in DAO product category interface. Name of JSON entry path is the /product-category.</span></span></span></p>
+			<pre>
+<code class="language-java">Custom REST Resource: @RepositoryRestResource(collectionResourceRel = "productCategory", path = "product-category") in DAO product category interface. Name of JSON entry path is the /product-category.</code></pre>
+
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -209,7 +212,10 @@
 			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">005</span></span></span></p>
 			</td>
 			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:532px">
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">MySQL57Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead</span></span></span></p>
+			<pre>
+<code class="language-xml">MySQL57Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead</code></pre>
+
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
