@@ -234,5 +234,17 @@
 
 <p>&nbsp;</p>
 
+<h2><span style="font-size:14pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Architecture</span></span></h2>
+
+<p style="margin-left:38px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">The web application for Doompause Emporium will have a two-tier architecture:</span></span></p>
+
+<ol style="margin-left:80px">
+	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Frontend (Client Tier): The frontend of the application will be built using JavaScript, HTML, and CSS. These technologies are standard for web development and will ensure a user-friendly interface and seamless user experience. The front end will be responsible for presenting data to users and handling user interactions.</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Backend (Server Tier): The backend will be powered by Spring Boot and Spring Boot Security. Spring Boot simplifies the setup of standalone Spring applications, while Spring Boot Security will handle secure transactions. MySQL will be used for database management, ensuring efficient data storage and retrieval. The backend will handle business logic, data storage, security, and communication with the frontend.</span></span></li>
+</ol>
+
+<p style="margin-left:38px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">The purpose of this web application is to expand the company&rsquo;s reach to customers globally, adapting to the changing shopping habits of customers in the digital age. The benefits include increased reach, improved customer experience, and efficient operations. The main objectives are to develop a user-friendly web application with an intuitive interface, ensure secure online transactions with Spring Boot Security, efficiently manage data with MySQL, and launch the web application within the specified timeline and budget.</span></span></p>
+
+<p>&nbsp;</p>
 </body>
 </html>
