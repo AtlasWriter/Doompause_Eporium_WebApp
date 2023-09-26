@@ -247,5 +247,19 @@
 
 <p>&nbsp;</p>
 <p style="text-align:center"><img alt="" src="https://assets.codepen.io/10811741/Picture1.png" /></p>
+
+
+<h2><span style="font-size:13pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Application Architecture</span></span></h2>
+
+<p style="margin-left:40px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">The design and construction of the software application for Doompause Emporium will involve several patterns and techniques:</span></span></p>
+
+<ol style="margin-left:40px">
+	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>Model-View-Controller (MVC)</strong>: This design pattern separates the application into three interconnected components. The Model represents the application data and business rules, the View is the user interface and presentation of data, and the Controller handles the input from users. This pattern is commonly used in web applications and will help in maintaining a clean separation of concerns among the components.</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>Responsive Web Design</strong>: This technique ensures that the web application&rsquo;s user interface adjusts dynamically, considering the characteristics of the device used (desktop, mobile, tablet, etc.). It enhances user experience as it provides optimal viewing across a wide range of devices.</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>Object-Relational Mapping (ORM)</strong>: ORM is a technique that lets you interact with your database, like MySQL in this case, in an object-oriented manner. With ORM tools, you can manipulate data as objects, making it easier to create, retrieve, update, and delete records without having to write SQL queries.</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>Spring Security</strong>: Spring Security is a powerful and highly customizable authentication and access-control framework. It is used to secure Spring-based applications and provides protection against attacks like session fixation, clickjacking, cross-site request forgery, etc.</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>RESTful API Design</strong>: Representational State Transfer (REST) APIs provide a way for the client-side of an application to communicate with the server-side. This architectural style allows different components of the application to communicate over HTTP in a way that mimics the behavior of web browsers and servers.</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>Agile Development</strong>: Agile development is a project management methodology that involves continuous iteration of development and testing throughout the software development lifecycle of the project. This approach promotes adaptive planning, evolutionary development, early delivery, and continuous improvement.</span></span></li>
+</ol>
 </body>
 </html>
