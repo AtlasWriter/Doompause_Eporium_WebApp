@@ -178,124 +178,67 @@
 
 <h2>File Structure:</h2>
 
+<h2>File Structure:</h2>
+
 <h2>The file structure for the Backend web application for Doompause can be organized as follows:</h2>
 
 <ul>
-	<li><span style="font-size:12pt"><span style="color:black"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>Root Directory</strong>: <em><u>Doompause-Emporium:</u></em> This is the main folder that contains all other files and folders related to the project.</span></span></span></li>
+	<li><span style="font-size:12pt"><span style="color:black"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>Root Directory</strong>: <em><u>Doompause-Emporium:</u></em> This is the main folder that contains all other files and folders related to the project.</span></span></span>&nbsp;<span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="color:black">&nbsp;</span></strong></span></span></li>
 </ul>
 
-<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; src</span></strong><span style="color:black">: &nbsp;</span><em><u>Doompause-Emporium/src/main/java</u></em>. <span style="color:black">This folder contains all the source code files.</span></span></span></p>
+<p style="margin-left:80px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="color:black">src</span></strong><span style="color:black">: &nbsp;</span><em><u>Doompause-Emporium/src/main/java</u></em>. <span style="color:black">This folder contains all the source code files.</span></span></span></p>
 
-<p style="margin-left:48px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;main</span></strong><span style="color:black">: </span>com.ecommerce</span></span></p>
+<p style="margin-left:120px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="color:black">main</span></strong><span style="color:black">: </span>com.ecommerce</span></span></p>
 
-<p style="margin-left:144px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><em><u>/Doompause-Emporium/src/main/java/com/ecommerce/DoompauseEmporiumApplication.java.</u></em> <span style="color:black">This folder contains the main application code.</span></span></span></p>
+<p style="margin-left:120px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><em><u>/Doompause-Emporium/src/main/java/com/ecommerce/DoompauseEmporiumApplication.java.</u></em> <span style="color:black">This folder contains the main application code.</span></span></span>​​​​​​​</p>
 
-<ul>
-	<li style="list-style-type:none">
-	<ul>
-		<li style="list-style-type:none">&nbsp;</li>
-	</ul>
-	</li>
-	<li style="list-style-type: none;"><span style="font-size:12pt"><span style="color:black"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>java</strong>: This folder contains all the Java source files (for a Spring Boot application).</span></span></span></li>
-	<li><span style="font-size:12pt"><span style="color:black"><span style="font-family:&quot;Times New Roman&quot;,serif">com.ecommerce.dao</span></span></span>
-	<ul>
-		<li style="list-style-type:none">
-		<ul style="list-style-type:square">
-			<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">/Doompause-Emporium/src/main/java/com/ecommerce/dao/ProductCategoryRepository.java</span></span></li>
-		</ul>
-		</li>
-	</ul>
-	</li>
-	<li style="list-style-type:none">
-	<ul>
-		<li style="list-style-type:none">
-		<ul>
-			<li style="list-style-type:none">
-			<ul style="list-style-type:square">
-				<li style="list-style-type:none">
-				<ul>
-					<li style="list-style-type:none">
-					<ul style="list-style-type:square">
-						<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">/Doompause-Emporium/src/main/java/com/ecommerce/dao/ProductRepository.java</span></span></li>
-					</ul>
-					</li>
-				</ul>
-				</li>
-				<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">com.ecommerce.entity</span></span>
-				<ul>
-					<li style="list-style-type:none">
-					<ul style="list-style-type:square">
-						<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">/Doompause-Emporium/src/main/java/com/ecommerce/entity/Product.java</span></span></li>
-					</ul>
-					</li>
-				</ul>
-				</li>
-			</ul>
-			</li>
-		</ul>
-		</li>
-	</ul>
-	</li>
-	<li style="list-style-type:none">
-	<ul>
-		<li style="list-style-type:none">
-		<ul>
-			<li style="list-style-type:none">
-			<ul style="list-style-type:square">
-				<li style="list-style-type:none">
-				<ul>
-					<li style="list-style-type:none">
-					<ul style="list-style-type:square">
-						<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">/Doompause-Emporium/src/main/java/com/ecommerce/entity/ProductCategory.java</span></span></li>
-					</ul>
-					</li>
-				</ul>
-				</li>
-			</ul>
-			</li>
-		</ul>
-		</li>
-	</ul>
-	</li>
+<p style="margin-left:120px"><span style="font-size:12pt"><span style="color:black"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>java</strong>: This folder contains all the Java source files (for a Spring Boot application).</span></span></span></p>
+
+<ul style="margin-left:120px">
+	<li><span style="font-size:12pt"><span style="color:black"><span style="font-family:&quot;Times New Roman&quot;,serif">com.ecommerce.dao</span></span></span></li>
 </ul>
 
-<p><span style="font-size:12pt"><span style="color:black"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; resources</strong>: This folder contains resources like templates, static assets, property files, etc.</span></span></span></p>
+<p style="margin-left:200px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">/Doompause-Emporium/src/main/java/com/ecommerce/dao/ProductCategoryRepository.java&nbsp;</span></span></p>
 
-<ul style="list-style-type:square">
-	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">/Doompause-Emporium/src/main/resources</span></span></li>
-	<li style="list-style-type:none">
-	<ul>
-		<li style="list-style-type:none">
-		<ul>
-			<li style="list-style-type:none">
-			<ul style="list-style-type:square">
-				<li style="list-style-type:none">
-				<ul style="list-style-type:square">
-					<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">/Doompause Emporium/src/main/resources/application.properties</span></span></li>
-					<li><span style="font-size:12pt"><span style="color:black"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>static</strong>: This folder contains static files like CSS, JavaScript, images, etc.</span></span></span></li>
-					<li><span style="font-size:12pt"><span style="color:black"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>templates</strong>: This folder contains template files (like Thymeleaf or JSP files in a Spring Boot application).</span></span></span></li>
-				</ul>
-				</li>
-			</ul>
-			</li>
-		</ul>
-		</li>
-	</ul>
-	</li>
+<p style="margin-left:200px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">/Doompause-Emporium/src/main/java/com/ecommerce/dao/ProductRepository.java</span></span></p>
+
+<ul style="margin-left:80px">
+	<li style="margin-left: 40px;"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">com.ecommerce.entity</span></span></li>
 </ul>
 
-<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;test</span></strong><span style="color:black">: This folder contains all the test code and resources. </span>/Doompause-Emporium/src/test/java </span></span></p>
+<p style="margin-left:200px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">/Doompause-Emporium/src/main/java/com/ecommerce/entity/Product.java</span></span>​​​​​​​</p>
 
-<ul style="list-style-type:square">
-	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">com.ecommerce</span></span></li>
-	<li style="list-style-type:none"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="color:black">target</span></strong><span style="color:black">: </span>/Doompause-Emporium/target/generated-sources/annotations<span style="color:black"> This folder is generated when you build your project. It contains all the compiled .class files, .jar file, etc.</span></span></span></li>
-	<li style="list-style-type:none"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="color:black">pom.xml</span></strong><span style="color:black">: </span>/Doompause-Emporium/target/generated-test-sources/test-annotations<span style="color:black"> This is the Project Object Model (POM) file for Maven-based projects. It includes project information and configuration details including dependencies, plugins, goals, etc.</span></span></span></li>
-	<li style="list-style-type:none"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="color:black">.gitignore</span></strong><span style="color:black">: </span>/Doompause-Emporium<span style="color:black"> This file specifies which files and directories to ignore in git version control.</span></span></span></li>
+<p style="margin-left:200px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">/Doompause-Emporium/src/main/java/com/ecommerce/entity/ProductCategory.java</span></span></p>
+
+<p style="margin-left:80px"><span style="font-size:12pt"><span style="color:black"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; resources</strong>: This folder contains resources like templates, static assets, property files, etc.</span></span></span></p>
+
+<p style="margin-left:200px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">/Doompause-Emporium/src/main/resources</span></span></p>
+
+<ul style="list-style-type:square; margin-left:80px">
+	<li style="list-style-type:none"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">/Doompause Emporium/src/main/resources/application.properties.&nbsp;</span></span>
+
+	<ul style="margin-left:40px">
+		<li style="list-style-type:none"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">​​​​​​​</span></span><span style="font-size:12pt"><span style="color:black"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>static</strong>: This folder contains static files like CSS, JavaScript, images, etc.</span></span></span></li>
+		<li style="list-style-type:none"><span style="font-size:12pt"><span style="color:black"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>templates</strong>: This folder contains template files (like Thymeleaf or JSP files in a Spring Boot application).</span></span></span></li>
+	</ul>
+	</li>
+	<li style="list-style-type:none"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="color:black">test</span></strong><span style="color:black">: This folder contains all the test code and resources. </span>/Doompause-Emporium/src/test/java </span></span><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">com.ecommerce</span></span></li>
+	<li style="list-style-type:none"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="color:black">target</span></strong><span style="color:black">: </span><span style="color:black">&nbsp;This folder is generated when you build your project. It contains all the compiled .class files, .jar file, etc.</span></span></span>
+	<ul style="margin-left:40px">
+		<li style="list-style-type:none"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">/Doompause-Emporium/target/generated-sources/annotations</span></span></li>
+	</ul>
+	</li>
+	<li style="list-style-type:none"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="color:black">pom.xml</span></strong><span style="color:black">: </span><span style="color:black">This is the Project Object Model (POM) file for Maven-based projects. It includes project information and configuration details including dependencies, plugins, goals, etc.</span></span></span>
+	<ul style="margin-left:40px">
+		<li style="list-style-type:none"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">/Doompause-Emporium/target/generated-test-sources/test-annotations<span style="color:black"> </span></span></span></li>
+	</ul>
+	</li>
+	<li style="list-style-type:none"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="color:black">.gitignore</span></strong><span style="color:black">: </span><span style="color:black">This file specifies which files and directories to ignore in git version control.</span></span></span>
+	<ul style="margin-left:40px">
+		<li style="list-style-type:none"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">​​​​​​​/Doompause-Emporium</span></span></li>
+	</ul>
+	</li>
 	<li style="list-style-type:none"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="color:black">README.md</span></strong><span style="color:black">: </span>/Doompause-Emporium<span style="color:black"> This file provides important information about the project, including how to set up and run the application.</span></span></span></li>
 </ul>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
 </body>
 </html>
