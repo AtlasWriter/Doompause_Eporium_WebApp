@@ -82,6 +82,43 @@
 
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 
+<h2>Risks:</h2>
+
+<p>Assumptions, risks, and constraints are an integral part of the technical design process. Here are some that could affect the technical design of the system:</p>
+
+<p style="margin-left:40px"><em><strong>Assumed Factors:</strong></em></p>
+
+<ol>
+	<li>Reliable Third-Party Services: It&rsquo;s assumed that third-party services such as the payment gateway are reliable and secure.</li>
+	<li>Stable Internet Connection: The system assumes users have a stable internet connection for seamless browsing and transactions.</li>
+	<li>User Tech Savviness: It&rsquo;s assumed that users have a basic understanding of how to navigate web applications.</li>
+</ol>
+
+<p style="margin-left:40px"><em><strong>Identified Risks:</strong></em></p>
+
+<ol>
+	<li>Third-Party Service Failure: There&rsquo;s a risk that third-party services might experience downtime or other issues, affecting the application&rsquo;s functionality.</li>
+	<li>Security Breaches: Despite using secure payment gateways, there&rsquo;s always a risk of security breaches and data theft.</li>
+	<li>Technical Debt: Rapid development to meet deadlines might lead to shortcuts and workarounds, accumulating technical debt.</li>
+</ol>
+
+<p style="margin-left:40px"><em><strong>Constraints:</strong></em></p>
+
+<ol>
+	<li>Budget: The budget could limit the number of features that can be implemented or the technologies that can be used.</li>
+	<li>Time: The project timeline might not allow for extensive testing or the implementation of all desired features.</li>
+</ol>
+
+<p style="margin-left:40px"><em><strong>Potential Solutions:</strong></em></p>
+
+<ol>
+	<li>Backup Third-Party Services: Have backup third-party services in case the primary ones fail.</li>
+	<li>Regular Security Audits: Conduct regular security audits to identify and fix potential security vulnerabilities.</li>
+	<li>Prioritize Features: Prioritize features based on their impact on user experience and business value to manage time and budget constraints effectively.</li>
+</ol>
+
+<p>The actual factors will depend on the specific circumstances of the project and should be identified through thorough analysis and discussion with all stakeholders.</p>
+
   </div>
 </div>
 </body>
