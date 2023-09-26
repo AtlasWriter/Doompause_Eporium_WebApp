@@ -178,42 +178,58 @@
 
 <p>&nbsp;</p>
 
+<p>&nbsp;</p>
+
 <h2><span style="font-size:13pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Software Requirements</span></span></h2>
 
-<h2 style="margin-left:40px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="background-color:white"><span style="color:black">The software requirements for the Doompause Emporium&rsquo;s web application are as follows:</span></span></span></span></h2>
+<p style="margin-left:40px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="background-color:white"><span style="color:black">The software requirements for the Doompause Emporium&rsquo;s web application are as follows:</span></span></span></span></p>
 
-<h2 style="margin-left:80px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Design and Development Software</span></span></strong><span style="background-color:white"><span style="color:black">:</span></span></span></span></h2>
+<h3 style="margin-left:80px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Design and Development Software</span></span></strong><span style="background-color:white"><span style="color:black">:</span></span></span></span></h3>
 
 <ol style="margin-left:80px">
-	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Integrated Development Environment (IDE)</span></span></strong><span style="background-color:white"><span style="color:black">: An IDE like Visual Studio Code, Sublime Text, or Atom for writing and managing code.</span></span></span></span></li>
+	<li>
+	<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Integrated Development Environment (IDE)</span></span></strong><span style="background-color:white"><span style="color:black">: An IDE like Visual Studio Code, Sublime Text, or Atom for writing and managing code.</span></span></span></span></p>
+	</li>
 	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Version Control System</span></span></strong><span style="background-color:white"><span style="color:black">: Git for version control to track changes and coordinate work between different team members.</span></span></span></span></li>
 	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Frontend Development</span></span></strong><span style="background-color:white"><span style="color:black">: JavaScript, HTML, and CSS for creating the user interface. You might also use libraries or frameworks like React or AngularJS to simplify the development process.</span></span></span></span></li>
 	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Backend Development</span></span></strong><span style="background-color:white"><span style="color:black">: Spring Boot and Spring Boot Security for server-side operations.</span></span></span></span></li>
 	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Database Management System</span></span></strong><span style="background-color:white"><span style="color:black">: MySQL for managing application data.</span></span></span></span></li>
 </ol>
 
-<p style="margin-left:77px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Server-Side Software Requirements</span></span></strong><span style="background-color:white"><span style="color:black">:</span></span></span></span></p>
+<h3 style="margin-left:77px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Server-Side Software Requirements</span></span></strong><span style="background-color:white"><span style="color:black">:</span></span></span></span></h3>
 
 <ol style="margin-left:80px">
-	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Operating System</span></span></strong><span style="background-color:white"><span style="color:black">: A stable operating system like Linux is recommended for hosting the server.</span></span></span></span></li>
+	<li>
+	<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Operating System</span></span></strong><span style="background-color:white"><span style="color:black">: A stable operating system like Linux is recommended for hosting the server.</span></span></span></span></p>
+	</li>
 	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Web Server</span></span></strong><span style="background-color:white"><span style="color:black">: A web server like Apache or Nginx to serve the web application.</span></span></span></span></li>
 	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Backend Framework</span></span></strong><span style="background-color:white"><span style="color:black">: Spring Boot and Spring Boot Security for handling server-side operations.</span></span></span></span></li>
 	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Database</span></span></strong><span style="background-color:white"><span style="color:black">: MySQL for data storage and retrieval.</span></span></span></span></li>
 </ol>
 
-<p style="margin-left:77px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Client-Side Software Requirements</span></span></strong><span style="background-color:white"><span style="color:black">:</span></span></span></span></p>
+<h3 style="margin-left:77px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Client-Side Software Requirements</span></span></strong><span style="background-color:white"><span style="color:black">:</span></span></span></span></h3>
 
 <ol style="margin-left:80px">
-	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Web Browser</span></span></strong><span style="background-color:white"><span style="color:black">: The application should be compatible with all major web browsers like Chrome, Firefox, Safari, and Edge.</span></span></span></span></li>
+	<li>
+	<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Web Browser</span></span></strong><span style="background-color:white"><span style="color:black">: The application should be compatible with all major web browsers like Chrome, Firefox, Safari, and Edge.</span></span></span></span></p>
+	</li>
 </ol>
 
-<p style="margin-left:77px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Hosting Platform Software Requirements</span></span></strong><span style="background-color:white"><span style="color:black">:</span></span></span></span></p>
+<h3 style="margin-left:77px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Hosting Platform Software Requirements</span></span></strong><span style="background-color:white"><span style="color:black">:</span></span></span></span></h3>
 
 <ol style="margin-left:80px">
-	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Operating System</span></span></strong><span style="background-color:white"><span style="color:black">: The hosting platform should support the chosen operating system (like Linux).</span></span></span></span></li>
-	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Web Server</span></span></strong><span style="background-color:white"><span style="color:black">: The hosting platform should support the chosen web server (like Apache or Nginx).</span></span></span></span></li>
-	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Backend Framework</span></span></strong><span style="background-color:white"><span style="color:black">: The hosting platform should support Spring Boot.</span></span></span></span></li>
-	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Database</span></span></strong><span style="background-color:white"><span style="color:black">: The hosting platform should support MySQL.</span></span></span></span></li>
+	<li>
+	<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Operating System</span></span></strong><span style="background-color:white"><span style="color:black">: The hosting platform should support the chosen operating system (like Linux).</span></span></span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Web Server</span></span></strong><span style="background-color:white"><span style="color:black">: The hosting platform should support the chosen web server (like Apache or Nginx).</span></span></span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Backend Framework</span></span></strong><span style="background-color:white"><span style="color:black">: The hosting platform should support Spring Boot.</span></span></span></span></p>
+	</li>
+	<li>
+	<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="background-color:white"><span style="color:black">Database</span></span></strong><span style="background-color:white"><span style="color:black">: The hosting platform should support MySQL.</span></span></span></span></p>
+	</li>
 </ol>
 
 <p>&nbsp;</p>
