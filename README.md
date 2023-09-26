@@ -261,7 +261,8 @@
 	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>RESTful API Design</strong>: Representational State Transfer (REST) APIs provide a way for the client-side of an application to communicate with the server-side. This architectural style allows different components of the application to communicate over HTTP in a way that mimics the behavior of web browsers and servers.</span></span></li>
 	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>Agile Development</strong>: Agile development is a project management methodology that involves continuous iteration of development and testing throughout the software development lifecycle of the project. This approach promotes adaptive planning, evolutionary development, early delivery, and continuous improvement.</span></span></li>
 </ol>
+<p>&nbsp;</p>
 
-<img src="https://assets.codepen.io/10811741/Architecture+DEEA.PNG" alt="" />
+<p style="text-align:center"><img alt="" src="https://assets.codepen.io/10811741/Architecture+DEEA.PNG" /></p>
 </body>
 </html>
