@@ -8,7 +8,7 @@
     <img src="https://assets.codepen.io/10811741/Doompause_Emporium_Logo_Edit.png" alt="" />
   </div>
   <div class="Assignment-members-and-details" style="background-color:Tomato;">
-    <h1>Doompause Emporium - Ecommerece WebApp with Strip Payment Processing</h1>
+    <h1>Doompause Emporium - Ecommerce WebApp with Strip Payment Processing</h1>
 
 <h2>Final Design Report:</h2>
 
