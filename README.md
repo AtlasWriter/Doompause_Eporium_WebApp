@@ -132,104 +132,49 @@
 
 <h2>Technical Requirements:</h2>
 
-<table cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:none">
+<table border="1" cellpadding="1" cellspacing="1" style="width:846.6px">
 	<thead>
 		<tr>
-			<td style="background-color:#d0cece; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; width:45px">
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="font-size:11.0pt"><span style="color:black">FR</span></span></strong></span></span></p>
-
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="font-size:11.0pt"><span style="color:black">ID</span></span></strong></span></span></p>
-			</td>
-			<td style="background-color:#d0cece; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; width:47px">
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="font-size:11.0pt"><span style="color:black">TR</span></span></strong></span></span></p>
-
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="font-size:11.0pt"><span style="color:black">ID</span></span></strong></span></span></p>
-			</td>
-			<td style="background-color:#d0cece; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; width:532px">
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="font-size:11.0pt"><span style="color:black">Technical Requirement</span></span></strong></span></span></p>
-			</td>
+			<th scope="col" style="width: 53px;">FR ID</th>
+			<th scope="col" style="width: 66px;">TI ID</th>
+			<th scope="col" style="width: 712px;"><strong><span style="font-size:11.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Technical Requirement</span></span></strong></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:45px">
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">FR</span></span></span></p>
-			</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:47px">
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">001</span></span></span></p>
-			</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:532px">
-			<pre>
-<code class="language-java">Lombok to reduce boiler plate code. Lombok.jar - Backend</code></pre>
-
-			<p>&nbsp;</p>
+			<td style="width:53px">&nbsp;</td>
+			<td style="width:66px">001</td>
+			<td style="width:712px"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Lombok to reduce boiler plate code. Lombok.jar - Backend</span></span></td>
+		</tr>
+		<tr>
+			<td style="width:53px">&nbsp;</td>
+			<td style="width:66px">002</td>
+			<td style="width:712px"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Upgrade to Java Development Kit 21</span></span></td>
+		</tr>
+		<tr>
+			<td style="width:53px">&nbsp;</td>
+			<td style="width:66px">003</td>
+			<td style="width:712px">
+			<p><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">import jakarta.persistence.Entity;&nbsp; import jakarta.persistence.Table;&nbsp; import java.math.BigDecimal; import java.util.Date;</span></span></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:45px">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:47px">
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">002</span></span></span></p>
-			</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:532px">
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">Upgrade to Java Development Kit 21</span></span></span></p>
-			</td>
+			<td style="width:53px">&nbsp;</td>
+			<td style="width:66px">004</td>
+			<td style="width:712px"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Custom REST Resource: @RepositoryRestResource(collectionResourceRel = &quot;productCategory&quot;, path = &quot;product-category&quot;) in DAO product category interface. Name of JSON entry path is the /product-category.</span></span></td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:45px">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:47px">
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">003</span></span></span></p>
-			</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:532px">
-			<pre>
-<code class="language-java">import jakarta.persistence.Entity; import jakarta.persistence.Table; import java.math.BigDecimal; import java.util.Date;</code></pre>
-
-			<p>&nbsp;</p>
-			</td>
+			<td style="width:53px">&nbsp;</td>
+			<td style="width:66px">005</td>
+			<td style="width:712px"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">MySQL57Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead</span></span></td>
 		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:45px">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:47px">
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">004</span></span></span></p>
-			</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:532px">
-			<pre>
-<code class="language-java">Custom REST Resource: @RepositoryRestResource(collectionResourceRel = "productCategory", path = "product-category") in DAO product category interface. Name of JSON entry path is the /product-category.</code></pre>
-
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:45px">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:47px">
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">005</span></span></span></p>
-			</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:532px">
-			<pre>
-<code class="language-xml">MySQL57Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead</code></pre>
-
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:45px">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:47px">
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">006</span></span></span></p>
-			</td>
-			<td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:532px">
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:10.0pt">Springboot 4, JpaRepositorys, JDBC Driver, WebDev Tools, Crud Repository. </span></span></span></p>
-			</td>
+      		<tr>
+			<td style="width:53px">&nbsp;</td>
+			<td style="width:66px">006</td>
+			<td style="width:712px"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Springboot 4, JpaRepositorys, JDBC Driver, WebDev Tools, Crud Repository.</span></span></td>
 		</tr>
 	</tbody>
 </table>
+
 </body>
 </html>
