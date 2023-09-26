@@ -132,7 +132,7 @@
 
 <h2>Technical Requirements:</h2>
 
-<table cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:none">
+<table cellspacing="0" class="MsoTableGrid" style="674.6px; border:none">
 	<thead>
 		<tr>
 			<td style="background-color:#d0cece; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; width:45px">
