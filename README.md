@@ -264,5 +264,14 @@
 <p>&nbsp;</p>
 
 <p style="text-align:center"><img alt="" src="https://assets.codepen.io/10811741/Architecture+DEEA.PNG" /></p>
+
+<h2>Spring Security</h2>
+
+<p>Spring Security is a framework that provides&nbsp;<a href="https://docs.spring.io/spring-security/reference/features/authentication/index.html">authentication</a>,&nbsp;<a href="https://docs.spring.io/spring-security/reference/features/authorization/index.html">authorization</a>, and&nbsp;<a href="https://docs.spring.io/spring-security/reference/features/exploits/index.html">protection against common attacks</a>. With first class support for securing both&nbsp;<a href="https://docs.spring.io/spring-security/reference/servlet/index.html">imperative</a>&nbsp;and&nbsp;<a href="https://docs.spring.io/spring-security/reference/reactive/index.html">reactive</a>&nbsp;applications, it is the de-facto standard for securing Spring-based applications.</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center"><img alt="" src="https://assets.codepen.io/10811741/desecurity.png" /></p>
+
 </body>
 </html>
