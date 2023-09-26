@@ -246,5 +246,6 @@
 <p style="margin-left:38px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">The purpose of this web application is to expand the company&rsquo;s reach to customers globally, adapting to the changing shopping habits of customers in the digital age. The benefits include increased reach, improved customer experience, and efficient operations. The main objectives are to develop a user-friendly web application with an intuitive interface, ensure secure online transactions with Spring Boot Security, efficiently manage data with MySQL, and launch the web application within the specified timeline and budget.</span></span></p>
 
 <p>&nbsp;</p>
+<p style="text-align:center"><img alt="" src="https://assets.codepen.io/10811741/Picture1.png" /></p>
 </body>
 </html>
