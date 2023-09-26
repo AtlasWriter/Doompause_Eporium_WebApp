@@ -93,20 +93,6 @@
 	</tbody>
 </table>
 
-<p>&nbsp;<img alt="interactive connection" src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-png-transparent.png" style="float:left; width:35px" />&nbsp;Angular</p>
-
-<p><img alt="html cleaner" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" style="float:left; width:45px" />Boostrap</p>
-
-<p><img alt="Word to html" src="https://www.logolynx.com/images/logolynx/98/980c5fe716efb66c936eebe1937d5489.png" style="float:left; width:45px" /> Spring Boot</p>
-
-<p><img alt="replace text" src="https://th.bing.com/th/id/OIP.D87KXcDLtggvLLrmHnairwHaJG?pid=ImgDet&amp;rs=1" style="float:left; width:35px" />&nbsp; &nbsp;Spring Security</p>
-
-<p><img alt="gibberish" src="https://th.bing.com/th/id/OIP.Wd9moNdvBsgsNDMl6V1BegHaCn?pid=ImgDet&amp;rs=1" style="float:left; width:45px" />&nbsp;Rest API</p>
-
-<p><img alt="html table div" src="https://th.bing.com/th/id/R.255b77e251b19a6d0600634d2ff9b006?rik=2D3kq1fky6LYpg&amp;pid=ImgRaw&amp;r=0" style="float:left; width:45px" />&nbsp;MySql</p>
-
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
-
 <h2>Risks:</h2>
 
 <p>Assumptions, risks, and constraints are an integral part of the technical design process. Here are some that could affect the technical design of the system:</p>
